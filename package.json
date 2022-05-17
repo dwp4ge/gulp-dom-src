@@ -22,7 +22,7 @@
     "cheerio": "~0.13.1",
     "extend": "~2.0.0",
     "through2": "~0.4.1",
-    "vinyl-file": "~1.1.1",
+    "vinyl-file": "^3.0.0",
     "vinyl-fs": "^3.0.3"
   },
   "devDependencies": {
